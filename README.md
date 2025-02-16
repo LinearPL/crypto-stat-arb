@@ -20,13 +20,13 @@ This project requires Python 3.7 or later.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/notabombe/statistical-arbitrage-cryptocurrencies.git
+git clone [https://github.com/notabombe/statistical-arbitrage-cryptocurrencies.git](https://github.com/LinearPL/crypto-stat-arb.git)
 
 ```
 2. Navigate to the project directory:
 
 ```bash
-cd statistical-arbitrage-cryptocurrencies
+cd crypto-stat-arb
 
 ```
 3. Install Dependencies:
